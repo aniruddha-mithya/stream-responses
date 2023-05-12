@@ -1,0 +1,15 @@
+{
+  "name": "@stream-responses/backend",
+  "version": "0.0.0",
+  "description": "Express app that streams responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Aniruddha",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
+}
