@@ -98,7 +98,7 @@ const Home: FC<HomeProps> = () => {
                     e.preventDefault();
                     sendMessage();
                 }}
-                className="w-full flex gap-4 px-3"
+                className="w-full flex gap-4 px-3 pb-3"
             >
                 <input
                     ref={inputRef}
